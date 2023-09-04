@@ -1,1 +1,1 @@
-# landing-page
+# Landing Page de nuestra aplicación GreenGrow
