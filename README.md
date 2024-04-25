@@ -1,1 +1,1 @@
-# Landing Page de nuestra aplicación GreenGrow
+# Landing Page de nuestra aplicación HydroTech
